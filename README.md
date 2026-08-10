@@ -31,6 +31,7 @@
 ## Oracles & Data
 
 - `[live]` **[Chainlink](https://chain.link)** — the canonical price oracle for Robinhood Chain.
+- `[live]` **[Envio](https://envio.dev/chains/robinhood)**. Data indexing for Robinhood Chain. HyperSync gives fast access to historical and real-time data, HyperIndex turns contract events into a queryable GraphQL API.
 - `[beta]` **On-chain NAV feeds** — continuous mark prices for tokenized equities.
 
 ## Wallets & Custody
